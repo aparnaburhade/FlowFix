@@ -1,6 +1,6 @@
 :root {
-  color: #111;
-  background: #fafafa;
+  color: #0f172a;
+  background: #f8fafc;
 }
 
 * {
@@ -9,4 +9,7 @@
 
 body {
   margin: 0;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
